@@ -104,6 +104,18 @@ Created using Excel.
 
 ---
 
+# 📱 Sample Wireframe
+## Login Screen
+![Login Screen](https://raw.githubusercontent.com/Pozhil26/SmartBite-BA-Project/refs/heads/main/SmartBite_BA_Project/5_Wireframes/WF_01_Login_Screen.png)
+
+## Checkout Screen
+![Checkout Screen](https://raw.githubusercontent.com/Pozhil26/SmartBite-BA-Project/refs/heads/main/SmartBite_BA_Project/5_Wireframes/WF_05_Checkout_Screen.png)
+
+## Order Confirmation Screen
+![Order Confirmation](https://raw.githubusercontent.com/Pozhil26/SmartBite-BA-Project/refs/heads/main/SmartBite_BA_Project/5_Wireframes/WF_07_Order_Confirmation.png)
+
+---
+
 # 🛠️ Tools Used
 
 | Tool | Purpose |
