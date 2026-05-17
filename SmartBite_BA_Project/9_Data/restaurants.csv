@@ -1,0 +1,21 @@
+RestaurantID,RestaurantName,City,Rating
+R001,Spice Hub,Chennai,4.5
+R002,Food Corner,Bangalore,4.2
+R003,Biryani House,Hosur,4.7
+R004,Pizza Point,Chennai,4.1
+R005,Veg Delight,Salem,4.4
+R006,Grill Master,Hyderabad,4.6
+R007,Dosa Plaza,Coimbatore,4.3
+R008,Burger Zone,Bangalore,4
+R009,Tandoori Treat,Chennai,4.5
+R010,Noodle World,Trichy,4.2
+R011,Curry Kitchen,Madurai,4.1
+R012,BBQ Nation,Chennai,4.8
+R013,Chaat Street,Bangalore,4
+R014,South Spice,Hosur,4.4
+R015,Royal Meals,Hyderabad,4.6
+R016,Snack Hub,Salem,4.1
+R017,Cafe Aroma,Coimbatore,4.3
+R018,Hot Pot,Chennai,4.5
+R019,Pasta Palace,Bangalore,4.2
+R020,Fresh Bites,Hosur,4.4

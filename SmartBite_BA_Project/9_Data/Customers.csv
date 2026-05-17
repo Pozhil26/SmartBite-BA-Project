@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Email,Phone,City
+C001,Arun Kumar,arun@gmail.com,9876543210,Chennai
+C002,Priya S,priya@gmail.com,9876543211,Bangalore
+C003,Karthik R,karthik@gmail.com,9876543212,Hosur
+C004,Meena P,meena@gmail.com,9876543213,Coimbatore
+C005,Rahul V,rahul@gmail.com,9876543214,Hyderabad
+C006,Divya T,divya@gmail.com,9876543215,Chennai
+C007,Naveen K,naveen@gmail.com,9876543216,Salem
+C008,Anjali M,anjali@gmail.com,9876543217,Bangalore
+C009,Surya D,surya@gmail.com,9876543218,Madurai
+C010,Keerthi L,keerthi@gmail.com,9876543219,Trichy
+C011,Vignesh P,vignesh@gmail.com,9876543220,Chennai
+C012,Aarthi S,aarthi@gmail.com,9876543221,Hosur
+C013,Sanjay R,sanjay@gmail.com,9876543222,Bangalore
+C014,Nisha K,nisha@gmail.com,9876543223,Chennai
+C015,Manoj T,manoj@gmail.com,9876543224,Hyderabad
+C016,Rekha P,rekha@gmail.com,9876543225,Salem
+C017,Akash M,akash@gmail.com,9876543226,Coimbatore
+C018,Lavanya D,lavanya@gmail.com,9876543227,Chennai
+C019,Pradeep V,pradeep@gmail.com,9876543228,Bangalore
+C020,Swathi R,swathi@gmail.com,9876543229,Hosur

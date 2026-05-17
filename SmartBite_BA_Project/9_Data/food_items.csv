@@ -1,0 +1,21 @@
+FoodID,FoodName,Category,Price
+F001,Chicken Biryani,Main Course,250
+F002,Veg Fried Rice,Main Course,180
+F003,Paneer Butter Masala,Curry,220
+F004,Pizza Margherita,Fast Food,300
+F005,Veg Noodles,Chinese,170
+F006,Burger Combo,Fast Food,200
+F007,Masala Dosa,South Indian,120
+F008,Chicken Grill,BBQ,350
+F009,Shawarma,Snacks,150
+F010,Pasta Alfredo,Italian,280
+F011,Ice Cream Sundae,Dessert,140
+F012,Chocolate Cake,Dessert,160
+F013,Tandoori Chicken,BBQ,320
+F014,Chilli Paneer,Starter,210
+F015,Garlic Bread,Starter,130
+F016,Mojito,Beverage,110
+F017,Fresh Lime Juice,Beverage,90
+F018,Idli Sambar,South Indian,80
+F019,Veg Meals,Main Course,190
+F020,Chicken Wings,Starter,240
